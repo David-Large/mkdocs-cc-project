@@ -1,6 +1,6 @@
 # Which collections CloudCannon will show in the CMS sidebar
 collections_config:
-  docs:
+  Documentation:
     path: "docs"
     output: true
     url: "/[full_slug]/" # mkdocs' default url behavior for nested files
