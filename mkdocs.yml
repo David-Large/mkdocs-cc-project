@@ -1,0 +1,5 @@
+site_name: MkCloud
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
